@@ -18,7 +18,7 @@ const config = {
   userEmail: "azware.az@gmail.com", // Email used for RSS feed's author segment
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Yogyakarta, Indonesia", // User location to display in the author segment.
-  userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
+  userAvatar: "/logos/logo-512.png", // User avatar to display in the author segment.
   userDescription:
     "I am just a beginner and now still working in many project like \"Human Resource Information System, Training Information System, E-Commerce, Studying Information System, etc\". Please teach me everything in this world of developer. I want to know everything about software developer. cause i want to be a full-stack developer", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
